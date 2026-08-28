@@ -5,3 +5,4 @@ There was quite some things to learn from this program
 Was able to successfully integrate lists and random function together
 Used multiple counter variable which keeps tracks of who has how much points
 Some nested if else in a while loop
+ 
